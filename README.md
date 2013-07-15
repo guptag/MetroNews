@@ -7,5 +7,8 @@
 	<li>Clicking on different sections triggerts keyframe animations.</li>
 </ul>
 
+<p>
+ Demo: <a href="http://guptag.github.io/MetroNews/index.html" target="_blank">http://guptag.github.io/MetroNews/index.html</a>
+</p>
 
 ![ScreenShot](https://raw.github.com/guptag/MetroNews/master/src/Content/metronews.png)
