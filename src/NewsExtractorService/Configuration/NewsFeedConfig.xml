@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<NewsFeedComfig>
+    <NewsFeeds mkt="en-us">
+      <HeadLines>
+          <Feed>
+            <Url>http://rss.cnn.com/rss/money_topstories.rss</Url>
+            <NewsExtractor></NewsExtractor>        
+          </Feed>
+          <Feed>
+            <Url>http://feeds.nytimes.com/nyt/rss/HomePage</Url>
+            <NewsExtractor></NewsExtractor>
+          </Feed>
+          <Feed>
+            <Url>http://seattletimes.nwsource.com/rss/home.xml</Url>
+            <NewsExtractor></NewsExtractor>
+          </Feed>          
+      </HeadLines>
+      <Technology>
+        <Feed>
+          <Url>http://rss.cnn.com/rss/money_technology.rss</Url>
+          <NewsExtractor></NewsExtractor>
+        </Feed>
+        <Feed>
+          <Url>http://feeds.nytimes.com/nyt/rss/Technology</Url>
+          <NewsExtractor></NewsExtractor>
+        </Feed>
+        <Feed>
+          <Url>http://www.engadget.com/rss.xml</Url>
+          <NewsExtractor></NewsExtractor>
+        </Feed>
+        <Feed>
+          <Url>http://seattletimes.nwsource.com/rss/businesstechnology.xml</Url>
+          <NewsExtractor></NewsExtractor>
+        </Feed>
+      </Technology>
+      <Health>
+        <Feed>
+          <Url></Url>
+          <NewsExtractor></NewsExtractor>
+        </Feed>
+        <Feed>
+          <Url>http://feeds.nytimes.com/nyt/rss/Health</Url>
+          <NewsExtractor></NewsExtractor>
+        </Feed>
+      </Health>  
+    </NewsFeeds>
+</NewsFeedComfig>

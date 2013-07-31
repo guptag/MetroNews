@@ -1,0 +1,83 @@
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.manifest
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.application
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.pdb
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.ProjectInstaller.resources
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe.manifest
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.application
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.pdb
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.config
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsFeedConfiguration.xml
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsExtractor.dll
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\AntiXssLibrary.dll
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractorService\bin\Debug\NewsExtractor.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsFeedConfiguration.xml
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.config
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.manifest
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.application
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractor.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\AntiXssLibrary.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractor.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.ProjectInstaller.resources
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe.manifest
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.application
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.pdb
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsFeedConfiguration.xml
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.config
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.manifest
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.application
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractorService.pdb
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractor.dll
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\AntiXssLibrary.dll
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\bin\Debug\NewsExtractor.pdb
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\ResolveAssemblyReference.cache
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.ProjectInstaller.resources
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\GenerateResource.read.1.tlog
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\GenerateResource.write.1.tlog
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe.manifest
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.application
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsFeedConfiguration.xml
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.config
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.manifest
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.application
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsExtractor.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\bin\Debug\NewsExtractor.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.ProjectInstaller.resources
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe.manifest
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.application
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.pdb
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsFeedConfiguration.xml
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.config
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe.manifest
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.application
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.exe
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsExtractorService.pdb
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsExtractor.dll
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\bin\Debug\NewsExtractor.pdb
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.ProjectInstaller.resources
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe.manifest
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.application
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.exe
+C:\Users\Swara\Desktop\MetroNews\NewsExtractorService\obj\x86\Debug\NewsExtractorService.pdb

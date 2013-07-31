@@ -1,0 +1,28 @@
+c:\users\swara\documents\visual studio 2010\Projects\BingNews\NewsExtractor\bin\Debug\NewsExtractor.dll
+c:\users\swara\documents\visual studio 2010\Projects\BingNews\NewsExtractor\bin\Debug\NewsExtractor.pdb
+c:\users\swara\documents\visual studio 2010\Projects\BingNews\NewsExtractor\obj\Debug\ResolveAssemblyReference.cache
+c:\users\swara\documents\visual studio 2010\Projects\BingNews\NewsExtractor\obj\Debug\NewsExtractor.dll
+c:\users\swara\documents\visual studio 2010\Projects\BingNews\NewsExtractor\obj\Debug\NewsExtractor.pdb
+C:\Users\Swara\Documents\Visual Studio 2010\Projects\BingNews\NewsExtractor\bin\Debug\AntiXSSLibrary.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\bin\Debug\NewsExtractor.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\bin\Debug\NewsExtractor.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\bin\Debug\AntiXSSLibrary.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\obj\Debug\NewsExtractor.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\obj\Debug\NewsExtractor.pdb
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\bin\Debug\NewsExtractor.dll
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\bin\Debug\NewsExtractor.pdb
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\bin\Debug\AntiXSSLibrary.dll
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\obj\Debug\ResolveAssemblyReference.cache
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\obj\Debug\NewsExtractor.dll
+\\gupta1\C$\Users\guptag\Documents\Visual Studio 2010\Projects\Bing\BingNews\NewsExtractor\obj\Debug\NewsExtractor.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractor\bin\Debug\NewsExtractor.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractor\bin\Debug\NewsExtractor.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractor\obj\Debug\NewsExtractor.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\NewsExtractor\obj\Debug\NewsExtractor.pdb
+C:\Users\Swara\Desktop\MetroNews\NewsExtractor\bin\Debug\NewsExtractor.dll
+C:\Users\Swara\Desktop\MetroNews\NewsExtractor\bin\Debug\NewsExtractor.pdb
+C:\Users\Swara\Desktop\MetroNews\NewsExtractor\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Swara\Desktop\MetroNews\NewsExtractor\obj\Debug\NewsExtractor.dll
+C:\Users\Swara\Desktop\MetroNews\NewsExtractor\obj\Debug\NewsExtractor.pdb

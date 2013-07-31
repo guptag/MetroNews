@@ -1,0 +1,42 @@
+﻿@model MetroNews.Models.NewsModel
+@{
+    ViewBag.Title = "News Reader (prototype) - Layout inspiration from Win8 metro UI";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<nav id="topmenu">
+	<ul></ul>
+</nav>
+<div id="topcontainer" class="topcontainer">
+</div>
+
+
+<script id="topmenuTemplate" type="text/template">
+    <li><a href="#"></a></li>
+</script>
+<script id="sectionTemplate" type="text/template">
+    <div class="sectioncontainer">
+        <div class="sectiontitle">
+            <span></span>
+        </div>            
+        <div style="clear:both;"></div>  
+        <div class="sectioncontent"></div>
+    </div>
+</script>
+<script id="newsTemplate" type="text/template">
+    <div class="news">
+        <div class="article">
+            <div class="title"><a href="#" class="titleclick" target="_blank"></a></div>
+            <div class="more">
+                <a class="source" href="#" target="_blank"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                <a class="coverage" href="#" target="_blank">In-depth coverage</a>
+            </div>
+        </div>
+        <a href="#" class="newsimgclick" target="_blank"><img class="newsimg"></img></a>
+    </div>
+</script>
+
+<script type="text/javascript">
+    window.newsContent = @Html.Raw(Model.GetNewsContentJSON());
+</script>
+<script type="text/javascript">    new $PageController(window.newsContent).bootstrap();        
+</script>

@@ -1,0 +1,18 @@
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\bin\MetroNews.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\bin\MetroNews.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\bin\EntityFramework.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\bin\NewsExtractor.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\bin\NewsExtractor.pdb
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\bin\EntityFramework.xml
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\obj\Debug\MetroNews.dll
+C:\Users\guptag\Documents\Visual Studio 2010\Projects\MetroNews\MetroNews\obj\Debug\MetroNews.pdb
+C:\Users\Swara\Desktop\MetroNews\MetroNews\bin\MetroNews.dll
+C:\Users\Swara\Desktop\MetroNews\MetroNews\bin\MetroNews.pdb
+C:\Users\Swara\Desktop\MetroNews\MetroNews\bin\EntityFramework.dll
+C:\Users\Swara\Desktop\MetroNews\MetroNews\bin\NewsExtractor.dll
+C:\Users\Swara\Desktop\MetroNews\MetroNews\bin\NewsExtractor.pdb
+C:\Users\Swara\Desktop\MetroNews\MetroNews\bin\EntityFramework.xml
+C:\Users\Swara\Desktop\MetroNews\MetroNews\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Swara\Desktop\MetroNews\MetroNews\obj\Debug\MetroNews.dll
+C:\Users\Swara\Desktop\MetroNews\MetroNews\obj\Debug\MetroNews.pdb

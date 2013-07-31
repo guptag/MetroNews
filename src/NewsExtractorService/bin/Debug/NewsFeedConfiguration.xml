@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<FeedConfiguration>
+  <General>
+    <MaxArticlesPerCategory>50</MaxArticlesPerCategory>
+  </General>
+  <FeedsList>
+    <Feeds category="Headlines">
+      <Feed>http://rss.cnn.com/rss/cnn_topstories.rss</Feed>
+      <Feed>http://feeds.nytimes.com/nyt/rss/HomePage</Feed>            
+      <Feed>http://feeds.reuters.com/reuters/topNews</Feed>
+      <Feed>http://pheedo.msnbc.msn.com/id/3032091/device/rss</Feed>
+     <!-- <Feed>http://feeds.huffingtonpost.com/huffingtonpost/LatestNews</Feed>-->      
+    </Feeds>
+    <Feeds category="Business">
+      <Feed>http://feeds.nytimes.com/nyt/rss/Business</Feed>
+      <Feed>http://rss.cnn.com/rss/money_latest.rss</Feed>
+      <Feed>http://rss.msnbc.msn.com/id/3032071/device/rss/rss.xml</Feed>
+      <Feed>http://feeds.reuters.com/reuters/businessNews</Feed>
+     <!-- <Feed>http://www.huffingtonpost.com/feeds/verticals/business/index.xml</Feed>-->
+     <!-- <Feed>http://feeds.washingtonpost.com/rss/business</Feed>-->
+    </Feeds>
+    <Feeds category="Technology">
+      <Feed>http://rss.cnn.com/rss/cnn_tech.rss</Feed>
+      <Feed>http://feeds.nytimes.com/nyt/rss/Technology</Feed>      
+      <Feed>http://rss.msnbc.msn.com/id/3032117/device/rss/rss.xml</Feed>
+      <Feed>http://feeds.reuters.com/reuters/technologyNews</Feed>
+      <Feed>http://feeds.wired.com/wired/index</Feed>
+    <!--  <Feed>http://www.huffingtonpost.com/feeds/verticals/technology/index.xml</Feed>-->
+    </Feeds>
+    <Feeds category="Entertainment">
+      <Feed>http://feeds.nytimes.com/nyt/rss/Movies</Feed>
+      <Feed>http://rss.cnn.com/rss/cnn_showbiz.rss</Feed>      
+      <Feed>http://today.msnbc.msn.com/id/3032083/device/rss/rss.xml</Feed>
+      <Feed>http://feeds.reuters.com/reuters/entertainment</Feed>
+      <!--<Feed>http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml</Feed>-->
+      <!--<Feed>http://feeds.washingtonpost.com/rss/entertainment</Feed>-->
+    </Feeds>
+    <Feeds category="Sports">      
+      <Feed>http://rss.nbcsports.msnbc.com/id/3032112/device/rss/rss.xml</Feed>
+      <Feed>http://rss.cnn.com/rss/si_topstories.rss</Feed>
+      <Feed>http://feeds.reuters.com/reuters/sportsNews</Feed>
+      <Feed>http://feeds1.nytimes.com/nyt/rss/Sports</Feed>
+      <!--<Feed>http://www.huffingtonpost.com/feeds/verticals/sports/index.xml</Feed>-->
+      <!--<Feed>http://feeds.washingtonpost.com/rss/sports</Feed>-->
+    </Feeds>
+    <Feeds category="Health">
+      <Feed>http://feeds.nytimes.com/nyt/rss/Health</Feed>      
+      <Feed>http://rss.cnn.com/rss/cnn_health.rss</Feed>
+      <Feed>http://rss.msnbc.msn.com/id/3088327/device/rss/rss.xml</Feed>
+      <Feed>http://feeds.reuters.com/reuters/healthNews</Feed>
+     <!-- <Feed>http://www.huffingtonpost.com/feeds/verticals/healthy-living/index.xml</Feed>-->
+    </Feeds>
+    <Feeds category="World">      
+      <Feed>http://pheedo.msnbc.msn.com/id/3036033/device/rss/</Feed>
+      <Feed>http://feeds.reuters.com/Reuters/worldNews</Feed>
+      <Feed>http://rss.cnn.com/rss/cnn_world.rss</Feed>
+      <Feed>http://feeds.nytimes.com/nyt/rss/World</Feed>
+      <!--<Feed>http://www.huffingtonpost.com/feeds/verticals/world/index.xml</Feed>-->
+      <!--<Feed>http://feeds.washingtonpost.com/rss/world</Feed>-->
+    </Feeds>
+  </FeedsList>
+</FeedConfiguration>
