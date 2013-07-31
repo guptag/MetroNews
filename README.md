@@ -11,4 +11,4 @@
  Demo: <a href="http://guptag.github.io/MetroNews/index.html" target="_blank">http://guptag.github.io/MetroNews/index.html</a>
 </p>
 
-![ScreenShot](https://raw.github.com/guptag/MetroNews/master/src/Content/metronews.png)
+![ScreenShot](https://raw.github.com/guptag/MetroNews/master/wireframe/Content/metronews.png)
