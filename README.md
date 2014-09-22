@@ -3,8 +3,8 @@
 <p>An interactive news reader application based on the inspiration from Windows 8 metro layout.</p>
 
 <ul>
-	<li>Resizing the browser window triggers CSS3 transitions.</li>
-	<li>Clicking on different sections triggerts keyframe animations.</li>
+	<li>Resizing the browser will trigger CSS3 transitions.</li>
+	<li>Clicking on different sections will trigger keyframe animations.</li>
 </ul>
 
 <p>
